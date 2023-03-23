@@ -1,0 +1,2 @@
+# Write me a function that groups Canadian provinces and US states to their ISA chapter.
+Provinces_and_states_to_chapter <- function (ISA.Chapters.CAN_US){
